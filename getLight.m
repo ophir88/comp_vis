@@ -43,8 +43,8 @@ imgWoD = im2double(imgWo);
 
 imgSub = imgWD - imgWoD;
 % imgSub = imgSub+epsilon;
-figure;
-imshow(imgSub);
+% figure;
+% imshow(imgSub);
 
 % get the relative R(red/blue) R(green/blue) 
 
